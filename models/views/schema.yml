@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+- name: dbttest
+  tables:
+  - name: public_t1
+  - name: public_t2
+  - name: public_t3
